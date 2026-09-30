@@ -1,0 +1,6 @@
+{
+  "name": "Sunstone Stride: Ancient Canopy",
+  "description": "A 3D endless runner adventure through ancient jungle viaducts, collapsing bridges, and subterranean temple ruins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
